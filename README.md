@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uhkanimo
 - 👀 I’m interested in cybersecurity and software engineering
-- 🌱 I’m currently beginning to learn how to programming
+- 🌱 I’m currently beginning to learn programming
 - 💞️ I’m looking to collaborate on nothing right now 
 - 📫 How to reach me discord akanimo#6165
 
